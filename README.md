@@ -11,7 +11,7 @@ My main objective is to create a simple random inspirational messages for users 
 * GitHub
 
 ## How to set up
-> mkdir folder
-> cd ../folder
-> code .
+- mkdir folder
+- cd ../folder
+- code .
 
